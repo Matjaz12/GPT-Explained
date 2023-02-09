@@ -7,6 +7,8 @@
 
 In this notebook, we aim to bridge the gap between theory and practical implementation by implementing a decoder-only Transformer model for character-level prediction. The majority of the code used in this project has been sourced from [1], while the theoretical insights have been taken from various sources including [2], [3], [4], [5]. Additionally, illustrations used in this notebook are taken from the "Attention is all you need" paper [6].
 
+Notebook: [Generative Pre-trained Transformer](./GPT.ipynb)
+
 ## References:
 
 [1] https://www.youtube.com/watch?v=kCc8FmEb1nY&t=8s&ab_channel=AndrejKarpathy
