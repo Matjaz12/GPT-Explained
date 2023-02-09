@@ -1,14 +1,11 @@
 # Building a Generative Pre-trained Transformer (GPT)
 
+![transformer](./img/transformer.jpg)
+
+
 ## About
 
-In this notebook we implement a decoder only Transformer, which can be trained for character level prediction. The network has a self-attention and fully connected layer. It doesn't implement the cross-attention. The original paper implements the model for language translation, therefore it has a decoder and encoder.
-
-Most of the code was presented in [1], most of the theoretical background was presented in [2], [3], [4], [5]. Figures are taken from the "Attention is all you need paper" [6]. 
-
-Notebook author: *Matjaž Zupančič*
-
-![transformer](./img/transformer.jpg)
+In this notebook, we aim to bridge the gap between theory and practical implementation by implementing a decoder-only Transformer model for character-level prediction. The majority of the code used in this project has been sourced from [1], while the theoretical insights have been taken from various sources including [2], [3], [4], [5]. Additionally, illustrations used in this notebook are taken from the "Attention is all you need" paper [6].
 
 ## References:
 
