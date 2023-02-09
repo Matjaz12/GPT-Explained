@@ -8,7 +8,7 @@ Most of the code was presented in [1], most of the theoretical background was pr
 
 Notebook author: *Matjaž Zupančič*
 
-[](./img/transformer.jpg)
+[transformer](./img/transformer.jpg)
 
 ## References:
 
