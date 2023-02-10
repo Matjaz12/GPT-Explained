@@ -14,7 +14,7 @@ Notebook: [Generative Pre-trained Transformer](./GPT.ipynb)
 We train the model to predict the next character on the tinyshakespear dataset [7], the following figure shows the Cross Entropy Loss
 after 5000 epochs (the model was trained for roughly 5 minutes on google colab). The text bellow shows characters generatede by the trained model.
 
-1[loss](./img/loss.png)
+![loss](./img/loss.png)
 
 
 ```
